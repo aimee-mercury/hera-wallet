@@ -84,10 +84,10 @@ const Landingpage = () => {
             )}
 
             {/* Footer */}
-            <div className="footer fade-in">
+            <div className="footer fade-in ">
                 <div className="footer-content">
                     <div className="footer-left">
-                        <img src="" alt="Logo" className="footer-logo" />
+                        <img src="" alt="Logo" className="footer-logo"/>
                         <p>HERA Solution LTD Rwanda</p>
                     </div>
                     <div className="footer-right">
