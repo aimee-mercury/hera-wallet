@@ -40,7 +40,7 @@ const Landingpage = () => {
             </div>
 
             {/* Sidebar Navigation */}
-            <div className="sidebar right-sidebar">
+            <div className="sidebar right-sidebar ">
                 {gridItems.map((item, index) => (
                     <div
                         key={index}
