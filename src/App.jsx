@@ -9,7 +9,7 @@ const App = () => {
     <Router>
       <Routes>
         <Route path="/" element={<Landingp />} />
-       
+        
       </Routes>
     </Router>
   );
