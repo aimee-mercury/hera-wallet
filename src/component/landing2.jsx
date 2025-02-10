@@ -33,7 +33,7 @@ const Landingpage = () => {
         <div className="landing-page fade-in">
             {/* Navbar */}
             <div className="navbar">
-            <Link to="/dashboard" className="navbar-link"> <img src="/office.jpeg" classname='im' alt="Logo" /></Link>
+            <img src="" classname='im' alt="Logo" />
                 <h1>Wallet Stores</h1>
                 
                 
